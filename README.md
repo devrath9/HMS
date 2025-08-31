@@ -7,7 +7,7 @@ In each of the component (admin, backend, backend) of project directory, you sho
  Admin and Frontend, **`npm run dev`**; 
  Backend, **`npm run server`**.
 
-Runs the app in the development mode.\
+Runs the app in the development mode afer adding your own environment variables for storage and authentication
 
 
 ### Description
