@@ -1,10 +1,11 @@
 ## Available Scripts
 
-In each of the component (admin, backend, backend) of project directory, you can run:
+In each of the component (admin, backend, backend) of project directory, you should run:
 
 
 ### `npm install`
-For Admin and Frontend, run **`npm run dev`**; for Backend, run **`npm run server`**.
+## Admin and Frontend, **`npm run dev`**; 
+## Backend, **`npm run server`**.
 
 Runs the app in the development mode.\
 
