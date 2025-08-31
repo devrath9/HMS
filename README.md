@@ -4,8 +4,8 @@ In each of the component (admin, backend, backend) of project directory, you sho
 
 
 ### `npm install`
-## Admin and Frontend, **`npm run dev`**; 
-## Backend, **`npm run server`**.
+ Admin and Frontend, **`npm run dev`**; 
+ Backend, **`npm run server`**.
 
 Runs the app in the development mode.\
 
